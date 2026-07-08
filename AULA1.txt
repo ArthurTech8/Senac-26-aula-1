@@ -1,0 +1,7 @@
+- criar uma página (blog) contando sobre vocês
+- Usar semântica
+- breve resumo de vcs
+- uma lista de hobbies, ou curiosidades
+- um formulário pra entrar em contato por email
+
+usar semântica
